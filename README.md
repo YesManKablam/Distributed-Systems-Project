@@ -2,6 +2,8 @@
 
 When you asked for all of the source code, I wan't certain if you meant the /src/ folders or everything. So I decided not to take the risk and just uploaded everything.
 
+WorkingRMI is the Servant and the Vigenere files. cracker is the tomcat files.
+
 The Servant.java file should be ran from the jar file before deploying the Tomcat application.
 
 The project will take in an encrypted string and try and decrypt it. 
