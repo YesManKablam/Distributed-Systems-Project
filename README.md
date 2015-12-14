@@ -6,6 +6,8 @@ WorkingRMI is the Servant and the Vigenere files. cracker is the tomcat files.
 
 The Servant.java file should be ran from the jar file before deploying the Tomcat application.
 
+Servant needs a text file called wap.txt. It is in the jar already, but if some bizarre reason it doesn't work, there's a copy in WorkingRMI.
+
 The project will take in an encrypted string and try and decrypt it. 
 
 Queues are there and should be Threaded. 
